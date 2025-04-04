@@ -1,0 +1,15 @@
+{
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Changelog",
+        "groups": [
+          {
+            "group": "Changelog",
+            "pages": []
+          }
+        ]
+      }
+    ]
+  }
+}
